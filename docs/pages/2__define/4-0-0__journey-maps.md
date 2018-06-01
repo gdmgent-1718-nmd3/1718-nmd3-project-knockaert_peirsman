@@ -16,7 +16,20 @@ title: Journey Maps
 
   <div class="row justify-content">
     <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="images/journey1.jpg" alt="Journey map 1">
+        <img class="d-block w-100" src="Images/journey1.jpg" alt="Journey map 1">
+    </div>
+  </div>
+
+  <div class="row justify-content">
+    <div class="col-12 col-md-8 ">
+      <h1>Thomas</h1>
+    </div>
+  </div>
+
+
+  <div class="row justify-content">
+    <div class="col-12 col-md-8 ">
+        <img class="d-block w-100" src="Images/journey2.jpg" alt="Journey map 1">
     </div>
   </div>
 
