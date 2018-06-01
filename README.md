@@ -3,13 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
-<<<<<<< HEAD
  - «Falke» «Knockaert»
  - «Febe» «Peirsman»
-=======
- - «Febe» «Peirsman»
- - «Falke» «Knockaert»
->>>>>>> 9098d13856a6a84d0100dc7bbacc4c2534b01e6e
 
 > Artevelde University College Ghent
 
