@@ -7,19 +7,23 @@ published: true
 title: Briefing
 ---
 
-Opdracht
---------
+## OPDRACHT
 
-Omschrijving   
+
+##### Omschrijving   
+    
     Je werkt in groep één project uit dat bestaat uit verschillende deelopdrachten. De resultaten van de deelopdrachten kunnen deliverables zijn en/of een onderdelen van het productiedossier.
 
-Algemene Probleemstelling
+##### Algemene Probleemstelling
+    
     Een museum wil de bezoeker een nieuwe gebruikersbeleving (Eng.: User Experience) geven door gebruik te maken van smartwatch en smartphone.
 
-Algemene aanpak
+##### Algemene aanpak
+    
     Stel een groep samen van maximaal 2 studenten. Kies met je groep een bestaand museum dat je ook echt gaat bezoeken. Voer de deelopdrachten uit.
 
-Overzicht deelopdrachten
+##### Overzicht deelopdrachten
+    
     1. Analyse
     2. Concept
     3. Smartwatch-app
@@ -37,7 +41,7 @@ Teamleden
 Gekozen Museum
 --------------
 
-DR. Guislain museum Gent
+##### DR. Guislain museum Gent
 
     Het museum Dr. Guisaln is een museum in gent waarin het verleden van de psychiatrie wordt aangetoond aan de hand van voorwerpen, kunst en onderzoek. 
     Het museum opende in het jaar 1986. Het is ondergebracht in het ouderlijk ziekenhuis op het terrein van het Psychiatrisch Centrum Dr. Guislain te gent,
@@ -46,6 +50,6 @@ DR. Guislain museum Gent
 
   <div class="row justify-content">
     <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/DrGuislain.JPG" alt="Stylestile 1">
+        <img class="d-block w-100" src="Images/DrGuislain.JPG" alt="Dr. Guislain museum">
     </div>
   </div>
