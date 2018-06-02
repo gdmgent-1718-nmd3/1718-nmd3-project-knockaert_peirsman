@@ -3,26 +3,60 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3.00
+  task: Idee, keuze museum,… 
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Bezoek museum
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 4.25
+  task: Analyse
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 3.50
+  task: Analyse & timesheet
+-
+  time: 3.00
+  task: journey map
 -
   time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: pitch
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 3.00
+  task: Style tiles
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2.25
+  task: Style tiles
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 4.00
+  task: Screen design smartwatch
+-
+  time: 4.25
+  task: Screen design smartwatch
+-
+  time: 2.30
+  task: Screen design & feedback
+-
+  time: 3.50
+  task: Wireflow smartphone
+-
+  time: 2.25
+  task: Wireflow smartphone aanpassingen
+-
+  time: 3.25
+  task: visual design smartphone
+-
+  time: 2.00
+  task: Digitaal productiedossier
+-
+  time: 4.00
+  task: wireframes desktop
+-
+  time: 6.25
+  task: visual designs desktop
+-
+  time: 0.00
+  task: aanvullen productiedossier
+-
+  time: 0.00
+  task: Ui style guide
+-
