@@ -39,4 +39,7 @@ Gekozen Museum
 
 DR. Guislain museum Gent
 
-    Het Museum Dr. Guislain is een museum in Gent waarin de geschiedenis van de psychiatrie wordt weergegeven aan de hand van gebruiksvoorwerpen, kunst en onderzoek. Het museum opende zijn deuren in 1986. Het is ondergebracht in het oude ziekenhuis op het terrein van Psychiatrisch Centrum Dr. Guislain te Gent, genoemd naar de psychiater Jozef Guislain. Naast een uitgebreide vaste collectie worden er elk jaar een drie- tot viertal exposities georganiseerd.
+    Het museum DR; Guisaln is een museum in gent waarin de geschiedenis van de psychiatrie wordt weergegeven aan de hand van gebruiksvoorwerpen, kunst en onderozek. 
+    Het museum opende zijn deuren in 1986. Het is ondergebracht in het ouder ziekenhuis op het terrein van Psychiatrisch Centrum Dr. Guislaiin te gent,
+    genoemd naar de psychiater Jozef Guislain.
+    Naast een uitgebreide vaste collectie worden er elk jaar een drie tot viertal exposities georganiseerd. 
