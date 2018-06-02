@@ -16,7 +16,7 @@ title: Journey Maps
 
   <div class="row justify-content">
     <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/journey1.jpg" alt="Journey map 1">
+        <img class="d-block w-100" src="Images/journey1.JPG" alt="Journey map 1">
     </div>
   </div>
 
@@ -29,7 +29,7 @@ title: Journey Maps
 
   <div class="row justify-content">
     <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/journey2.jpg" alt="Journey map 1">
+        <img class="d-block w-100" src="Images/journey2.JPG" alt="Journey map 1">
     </div>
   </div>
 
