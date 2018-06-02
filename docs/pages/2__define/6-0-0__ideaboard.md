@@ -12,3 +12,4 @@ title: Ideaboard
         <img class="d-block w-100" src="Images/ideabord.jpg" alt="Ideabord">
     </div>
 </div>
+
