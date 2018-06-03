@@ -11,14 +11,14 @@ title: Smartwatch-app
 
 ##### Besturingssysteem
 
-Tizen Design Wearables
+Adroid
 
 ##### IA en IxD
 
     1. Wireflow op papier
     2. Paper Prototype
 
-    Een paper prototype wordt gebruikt om snel een (deel van het) ontwerp te testen met echte gebruikers, om dan op basis van de bevindingen het ontwerp bij te stellen.
+    Een paper prototype wordt gebruikt om snel een ontwerp te testen met echte gebruikers, om dan op basis van de bevindingen het ontwerp bij te stellen.
 
 ##### Gebruikerstesten
     
