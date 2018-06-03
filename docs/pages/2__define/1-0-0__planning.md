@@ -7,22 +7,17 @@ published: true
 title: Planning
 ---
 
-| Define fase               | When         | Who     |
-| :---------------          | ------------:| -------:|
-| Museum bezoek             | 24 februarie | Samen   |
-| Analyse                   | 26 februarie | Samen   |
-| Technische analyse        | 26 februarie | febe    |
-| Journey maps              | 26 februarie | Falke   |
-| Ideabord                  | 5 maart      | Falke   |
-| Concept + pitch           | 5 maart      | samen   |
-| Style tiles               | 12 maart     | Samen   |
-| Wireflow smartwatch       | 12 maart     | Falke   |
-| paper prototype           | 12 april     | Falke   |
-| Visual designs smartwatch | 16 april     | Falke   |
-| Wireflow smartphone       | 23 april     | Febe    |
-| gebruikerstesten          | 23 april     | Falke   |
-| Visual design smartphone  | 7 mei        | Samen   |
-| Website sitemap           | 28 mei       | Febe    |
-| Website wireframes        | 28 mei       | febe    |
-| Website visual designs    | 28 mei       | febe    |
-| Ui-style-guide            | 3 juni       | Samen   |
+| Onderwerp                 | When          
+| :---------------          | ------------:
+| Algemene briefing         | Week 01      
+| Analyse                   | Week 01       
+| Feedback concept          | Week 03    
+| Elevator pitch            | Week 04
+| Briefing smartwatch       | week 05
+| Briefieng wireframes      | week 05
+| Feedback paper protoype   | Week 06
+| Briefing smartphone app   | Week 07
+| Smartphone app            | Week 09
+| Feedback watch & app      | Week 10    
+| Briefing UI style Guide   | Week 11    
+     
