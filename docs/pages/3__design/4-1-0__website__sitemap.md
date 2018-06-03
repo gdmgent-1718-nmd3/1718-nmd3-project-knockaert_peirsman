@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
- ![Sitemap]({{ 'Images/sitemap.jpg' | relative_url }})
+ ![Sitemap]({{ 'Images/sitemap.jpg' | relative_url }}){: width="100px"}
