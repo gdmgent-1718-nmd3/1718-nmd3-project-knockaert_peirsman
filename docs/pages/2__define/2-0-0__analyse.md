@@ -50,6 +50,17 @@ Ik ben geen grote museum bezoeker, en als ik die bezoek is het uit interesse van
 
 De QR codes zijn een beetje voorbij gepasseerd, en niet altijd gemakkelijk toegankelijk, soms kan men niet dicht genoeg bij het kunstwerk om het te scannen. Wat ik mis en een museum app is het gebruiksgemak, maar ook de mogelijkheid om eigen te bedienen. En vooral dat het niet saai verteld wordt.
 
+## Persoon 4
+
+Ik denk dat er niet specifiek uitlegapparaten aanwezig waren in het museum, behalve de standaard bordjes met wat uitleg op. Op zich vind ik die niet slecht, soms staat er wat weinig informatie op maar ze zijn vaak wel duidelijk en praktisch. Als er niet te veel mensen rond het bordje staan zijn deze in het algemeen ook goed te lezen.
+
+Ik hou van musea dus als ik even tijd heb breng ik graag eens een bezoekje. Ik heb vrij veel interesses gaande van klassieke kunst tot natuurwetenschappen. Gelukkig zijn er veel verschillende musea in Gent en omstreken waaronder het Dr. Guislain museum.
+
+Ik heb altijd mijn smartphone bij me. Ik gebruik hem niet constant maar ik heb hem wel altijd bij voor moest er iets gebeuren. Ik heb geen speciale app om QR-codes te scannen dus als er extra informatie beschikbaar zou worden gesteld via QR-codes zou ik dit graag op voorhand weten. Het lijkt me wel een leuk idee om nog extra informatie beschikbaar te stellen zo kan je meer te weten komen tijdens je bezoek.
+
+Voor een museum app vind ik het vooral belangrijk dat deze gemakkelijk te gebruiken is. Want met een ingewikkelde app die je niet begrijpt ben je niet veel. 
+
+
 ## CONCLUSIE
 
 * Informatie snel en makkelijk ter beschikking stellen
