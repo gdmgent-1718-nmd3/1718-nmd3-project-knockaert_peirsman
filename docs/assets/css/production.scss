@@ -5,3 +5,26 @@
 @import
   "app/main",
   "production/main";
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+h1 {font-family: 'Amatic SC', sans-serif;
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+h2 {font-family: 'Raleway', sans-serif;
+    color: #194e66;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h3 {font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
