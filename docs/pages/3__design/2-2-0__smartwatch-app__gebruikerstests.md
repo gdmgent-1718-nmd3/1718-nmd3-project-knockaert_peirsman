@@ -9,3 +9,5 @@ title: Gebruikerstests
 
 Paper Prototype
 ---------------
+
+![Smartwatch wireflow]({{ 'Images/prototype1.jpg' | relative_url }})
