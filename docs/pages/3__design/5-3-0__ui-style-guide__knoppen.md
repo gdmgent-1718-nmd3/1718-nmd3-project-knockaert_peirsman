@@ -6,3 +6,9 @@ published: true
 # ─────────────────────
 title: Knoppen
 ---
+
+SMARTWATCH
+
+SMARTPHONE
+
+WEBSITE

@@ -6,3 +6,13 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
+
+SMARTWATCH & SMARTPHONE
+
+#bd4017
+
+#ffdb08v
+
+#194e66
+
+#bababa
