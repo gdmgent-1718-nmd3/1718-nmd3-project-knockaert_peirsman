@@ -66,6 +66,18 @@
   time: 2.25
   task: aanvullen productiedossier
 -
-  time: 0.00
+  time: 2.50
   task: Ui style guide
+-
+  time: 4.25
+  task: aanvullen productiedossier
+-
+  time: 3.00
+  task: aanpassen wireflows
+-
+  time: 2.25
+  task: aanpassen visuals
+-
+  time: 0.00
+  task: presentatie
 -
