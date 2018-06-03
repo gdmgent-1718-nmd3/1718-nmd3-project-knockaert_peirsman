@@ -6,10 +6,10 @@
   time: 3.00
   task: Idee, keuze museum,… 
 -
-  time: 2.50
+  time: 3.25
   task: Bezoek museum
 -
-  time: 2.00
+  time: 3.50
   task: Analyse
 -
   time: 3.50
@@ -29,6 +29,9 @@
 -
   time: 3.00
   task: Style tiles
+-
+  time: 2.25
+  task: papar prototype
 -
   time: 2.50
   task: Screen design smartwatch
@@ -60,24 +63,24 @@
   time: 5.00
   task: Digitaal productiedossier
 -
-  time: 1.00
-  task: visual designs desktop
--
-  time: 2.25
+  time: 4.25
   task: aanvullen productiedossier
 -
   time: 2.50
   task: Ui style guide
 -
+  time: 2.50
+  task: gebruikertesten
+-
   time: 4.25
   task: aanvullen productiedossier
 -
-  time: 3.00
+  time: 3.50
   task: aanpassen wireflows
 -
-  time: 2.25
+  time: 3.25
   task: aanpassen visuals
 -
-  time: 0.00
+  time: 3.00
   task: presentatie
 -
