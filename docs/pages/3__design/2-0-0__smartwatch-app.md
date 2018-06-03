@@ -11,12 +11,12 @@ title: Smartwatch-app
 
 ##### Besturingssysteem
 
-Adroid
+Android
 
 ##### IA en IxD
 
 1. Wireflow op papier
-2. Paper Prototype
+2. Paper prototype
 
 Een paper prototype wordt gebruikt om snel een ontwerp te testen met echte gebruikers, om dan op basis van de bevindingen het ontwerp bij te stellen.
 

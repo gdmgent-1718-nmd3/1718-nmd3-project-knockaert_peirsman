@@ -23,4 +23,4 @@ Uittesten van het digital prototype op basis van de persona’s. Dit kan met de 
 
 ##### Screen Designs
 
-Finaliseren van het ontwerp na de gebrukerstesten en maken van de Screen Designs in Adobe XD CC.
+Finaliseren van het ontwerp na de gebruikerstesten en maken van de Screen Designs in Adobe XD CC.
