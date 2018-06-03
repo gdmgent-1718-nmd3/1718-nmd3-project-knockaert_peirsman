@@ -36,7 +36,7 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
 
 * Levensduur: anderhalve dag
 
- ![Smartwatch]({{ 'Images/smartwatch1.jpg' | relative_url }})
+ ![Smartwatch]({{ 'Images/smartwatch1.jpg' | relative_url }}){: width="400px"}
 
 ### Functies
 
@@ -46,7 +46,8 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
 
 * spraakbesturing
 
- ![Smartwatch]({{ 'Images/smartwatch2.jpg' | relative_url }})
+ ![Smartwatch]({{ 'Images/smartwatch2.jpg' | relative_url }}){: width="300px"}
+
 
 ## SMARTPHONE: HUAWEI MATE 10-PRO
 

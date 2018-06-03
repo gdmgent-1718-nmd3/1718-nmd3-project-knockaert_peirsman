@@ -7,9 +7,8 @@ published: true
 title: Knoppen
 ---
 
-SMARTWATCH
+>>![style guide buttons]({{ 'Images/styleguide3.png' | relative_url }}){: width="300px"}
 
-SMARTPHONE
+>>![style guide grafiek]({{ 'Images/styleguide2.png' | relative_url }}){: width="300px"}
 
-WEBSITE
-
+>>![style guide iconen]({{ 'Images/styleguide4.png' | relative_url }}){: width="300px"}
