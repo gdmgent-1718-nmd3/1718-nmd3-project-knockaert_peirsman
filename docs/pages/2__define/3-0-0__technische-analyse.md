@@ -6,15 +6,15 @@ published: true
 # ─────────────────────
 title: Technische Analyse
 ---
-#### SMARTWATCH: HUAWEI 
+## SMARTWATCH: HUAWEI 
 
 <https://consumer.huawei.com/en/wearables/watch/>
 
-###### Gebruik
+### Gebruik
 
 De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamheid. De Watch Classic werkt moeiteloos met Android-smartphones (Android 4.3+) en met iPhones (iOS 8.2+).
 
-###### Technische mogelijkheden
+### Technische mogelijkheden
 
 * Cirkelvormig diameter: 42mm of 44mm (1,4-inch full circle AMOLED display)
 
@@ -38,7 +38,7 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
 
  ![Smartwatch]({{ 'Images/smartwatch1.jpg' | relative_url }}){: width="400px"}
 
-###### Functies
+### Functies
 
 * wekker
 
@@ -49,15 +49,15 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
  ![Smartwatch]({{ 'Images/smartwatch2.jpg' | relative_url }}){: width="300px"}
 
 
-#### SMARTPHONE: HUAWEI MATE 10-PRO
+## SMARTPHONE: HUAWEI MATE 10-PRO
 
 <https://consumer.huawei.com/be/phones/mate10-pro/>
 
-###### Gebruik
+### Gebruik
 
 Door de krachtige Kirin 970 chip ervaar je een enorme snelheid, reactietijd en efficiëntie bij het gebruik van de Huawei Mate 10 Pro. En met ingebouwde kunstmatige intelligentie helpt deze smartphone je beter dan ooit! De batterij is krachtig en gaat lang mee en met een diafragma van F1.6 maak je de allermooiste foto’s, zelfs met weinig licht!
 
-###### Technische mogelijkheden
+### Technische mogelijkheden
 
 * Afmetingen (h;b;d): 15.4 x 7.4 x 0.79 cm
 
@@ -77,7 +77,7 @@ Door de krachtige Kirin 970 chip ervaar je een enorme snelheid, reactietijd en e
 
 * Processor: Octa Core Kirin 970 Cortex A73+A53 2.5 + 1.8 GHz
 
-###### knoppen
+### Knoppen
 
 * Volume regeling
 
