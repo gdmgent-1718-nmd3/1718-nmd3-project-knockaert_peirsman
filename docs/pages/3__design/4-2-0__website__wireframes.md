@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+ ![Website wireframes]({{ 'Images/website_wireframes.jpg' | relative_url }})

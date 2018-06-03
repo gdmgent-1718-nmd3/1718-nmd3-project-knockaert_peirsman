@@ -6,5 +6,5 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
-
+ ![smartwatch wireflow]({{ 'Images/smartwatch_wireflow.jpg' | relative_url }})
 
