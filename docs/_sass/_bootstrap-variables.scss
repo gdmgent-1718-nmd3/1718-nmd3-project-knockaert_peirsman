@@ -11,6 +11,9 @@
 //
 
 $red:    #BD4017 !default;
+$yellow:    #ffdb08 !default;
+$blue:    #194e66 !default;
+$grey:    #bababa !default;
 $primary: $red;
 
 // Fonts
@@ -19,4 +22,5 @@ $primary: $red;
 
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
-$font-family-base: 'Raleway', 'serif';
+$headings-color: $red;
+$font-family: 'Raleway', sans-serif;
