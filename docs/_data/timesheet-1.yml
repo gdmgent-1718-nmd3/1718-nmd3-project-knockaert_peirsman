@@ -54,9 +54,15 @@
   time: 6.25
   task: visual designs desktop
 -
-  time: 0.00
+  time: 5.00
   task: aanvullen productiedossier
 -
-  time: 0.00
+  time: 4.25
   task: Ui style guide
+-
+  time: 2.50
+  task: productiedossier
+-
+ time: 2.50
+  task: presentatie
 -
