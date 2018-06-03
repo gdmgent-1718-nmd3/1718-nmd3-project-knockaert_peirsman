@@ -7,7 +7,7 @@ published: true
 title: Briefing
 ---
 
-## OPDRACHT
+#### OPDRACHT
 
 
 ##### Omschrijving   
@@ -53,3 +53,5 @@ Gekozen Museum
         <img class="d-block w-100" src="docs/Images/drGuislain.jpg" alt="Dr. Guislain museum">
     </div>
   </div>
+
+ ![Guislain musem](Images/drGuislain.jpg "Dr. Guislain museum")

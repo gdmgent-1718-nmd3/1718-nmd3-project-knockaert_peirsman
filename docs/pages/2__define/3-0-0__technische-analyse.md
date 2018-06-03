@@ -8,7 +8,7 @@ title: Technische Analyse
 ---
 #### SMARTWATCH: HUAWEI 
 
-https://consumer.huawei.com/en/wearables/watch/
+<https://consumer.huawei.com/en/wearables/watch/>
 
 ###### Gebruik
 
@@ -58,7 +58,7 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
 
 #### SMARTPHONE: HUAWEI MATE10-PRO
 
-https://consumer.huawei.com/be/phones/mate10-pro/
+<https://consumer.huawei.com/be/phones/mate10-pro/>
 
 ###### Gebruik
 
