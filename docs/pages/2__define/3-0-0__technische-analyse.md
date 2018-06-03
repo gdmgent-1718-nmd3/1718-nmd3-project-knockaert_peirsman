@@ -36,11 +36,7 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
 
 * Levensduur: anderhalve dag
 
-  <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/smartwatch1.jpg" alt="Smartwatch 1">
-    </div>
-  </div>
+ ![Smartwatch]({{ 'Images/smartwatch1.jpg' | relative_url }})
 
 ###### Functies
 
@@ -50,13 +46,9 @@ De Huawei Watch Classic is een smartwatch met saffierglas voor extreme duurzaamh
 
 * spraakbesturing
 
-  <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/smartwatch2.jpg" alt="Smartwatch 2">
-    </div>
-  </div>
+ ![Smartwatch]({{ 'Images/smartwatch2.jpg' | relative_url }})
 
-#### SMARTPHONE: HUAWEI MATE10-PRO
+#### SMARTPHONE: HUAWEI MATE 10-PRO
 
 <https://consumer.huawei.com/be/phones/mate10-pro/>
 
@@ -90,8 +82,4 @@ Door de krachtige Kirin 970 chip ervaar je een enorme snelheid, reactietijd en e
 
 * vergrendeling
 
- <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/smartphone1.jpg" alt="Smartphone 1">
-    </div>
-  </div>
+ ![Smartphone]({{ 'Images/smartphone1.jpg' | relative_url }})

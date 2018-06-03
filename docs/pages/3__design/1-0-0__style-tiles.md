@@ -7,26 +7,11 @@ published: true
 title: Style Tiles
 ---
 
-Gekozen
--------
-  <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/styletile3.JPG" alt="Stylestile 1">
-    </div>
-  </div>
+## Style tile 1
+ ![Style tile 1]({{ 'Images/styletile1.jpg' | relative_url }})
 
-Alternatief 1
--------------
-  <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/styletile2.JPG" alt="Stylestile 2">
-    </div>
-  </div>
+## Style tile 2
+ ![Style tile 2]({{ 'Images/styletile2.jpg' | relative_url }})
 
-Alternatief 2
--------------
- <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/styletile1.JPG" alt="Stylestile 3">
-    </div>
-  </div>
+## Style tile 3
+ ![Style tile 3]({{ 'Images/styletile3.jpg' | relative_url }})
