@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
- ![Smartphone wireflow]({{ 'Images/smartphone_wireflow.jpg' | relative_url }})
+ ![Smartphone wireflow]({{ 'Images/smartphone_wireflow.jpg' | relative_url }}){: width="1000px"}

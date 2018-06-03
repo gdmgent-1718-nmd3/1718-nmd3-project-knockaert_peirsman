@@ -8,10 +8,10 @@ title: Style Tiles
 ---
 
 ## Style tile 1
- ![Style tile 1]({{ 'Images/styletile1.jpg' | relative_url }})
+ ![Style tile 1]({{ 'Images/styletile1.png' | relative_url }}){: width="800px"}
 
 ## Style tile 2
- ![Style tile 2]({{ 'Images/styletile2.jpg' | relative_url }})
+ ![Style tile 2]({{ 'Images/styletile2.png' | relative_url }}){: width="800px"}
 
 ## Style tile 3
- ![Style tile 3]({{ 'Images/styletile3.jpg' | relative_url }})
+ ![Style tile 3]({{ 'Images/styletile3.png' | relative_url }}){: width="800px"}
