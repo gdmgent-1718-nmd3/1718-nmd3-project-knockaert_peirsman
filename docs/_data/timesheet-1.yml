@@ -63,6 +63,16 @@
   time: 2.50
   task: productiedossier
 -
+<<<<<<< HEAD
   time: 2.50
+=======
+  time: 2.00
+  task: aanpassen wireflows
+-
+  time: 2.50
+  task: aanpassen visuals
+-
+  time: 2.50
+>>>>>>> 53efae351fb49d447cca0d416c57444c13ddbf70
   task: presentatie
 -
