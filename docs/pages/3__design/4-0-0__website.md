@@ -6,3 +6,17 @@ published: true
 # ─────────────────────
 title: Website
 ---
+
+## WERKWIJZE
+
+##### Sitemap
+    
+Een sitemap maken voor de website.
+
+##### Wireframes
+    
+Wireframes maken voor de website.
+
+##### Screen designs
+    
+visuals maken voor alle wireframes & prototype in Adobe XD.
