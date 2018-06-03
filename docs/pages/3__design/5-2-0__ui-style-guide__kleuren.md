@@ -9,4 +9,4 @@ title: Kleuren
 
 SMARTWATCH & SMARTPHONE
 
-![style guide kleuren]({{ 'Images/kleuren.png' | relative_url }}){: width="300px"}
+>>![style guide kleuren]({{ 'Images/styleguide1.png' | relative_url }}){: width="300px"}
