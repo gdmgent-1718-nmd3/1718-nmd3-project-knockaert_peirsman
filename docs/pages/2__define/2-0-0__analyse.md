@@ -62,11 +62,11 @@ Voor een museum app vind ik het vooral belangrijk dat deze gemakkelijk te gebrui
 
 ## Persoon 5
 
-Het uitleg apparaat vind ik zet onpraktisch en ouderwets. Het bakje weegt meestal zeer veel en werkt bij veel museums maar deels. Door budget problemen is het herstellen hiervan meestal de laatste taak op de lijst van het museum. Ik heb een smartphone, en neem die overal mee. Als er ergens een toffe reclame op hangt voor iets nieuws op de smartphone zoals een app, dan download ik die bijna meteen uit nieuwsgierigheid. 
+Het uitleg apparaat vind ik zeer onpraktisch en ouderwets. Het bakje weegt meestal zeer veel en werkt bij veel musea maar deels. Door budget problemen is het herstellen hiervan meestal de laatste taak op de lijst van het museum. Ik heb een smartphone, en neem die overal mee. Als er ergens een toffe reclame op hangt voor iets nieuws op de smartphone zoals een app, dan download ik die bijna meteen uit nieuwsgierigheid. 
 
-De uitleg kaartjes, kan ik lezen als ik dicht genoeg sta. Maar in een museum dat zeer populair zijn zoals het historisch museum in London, kan je bij sommige kunstwerken niet dichter staan dan 10m. En dan kan je de kaartjes natuurlijk niet lezen. Als ik naar een museum ga, wat al zeer weinig gebeurd. Is dat meestal omdat het een museum is waar ik al zeer veel positieve dingen over gehoord heb of waarvan dat de reclame er over mij triggert om te gaan. Meestal gebeurd dit bij museum tijdens mijn reizen. 
+De uitleg kaartjes kan ik lezen als ik dicht genoeg sta. Maar in een museum dat zeer populair zijn zoals het historisch museum in London, kan je bij sommige kunstwerken niet dichter staan dan 10m. En dan kan je de kaartjes natuurlijk niet lezen. Als ik naar een museum ga, wat al zeer weinig gebeurd, is dat meestal omdat het een museum is waar ik al zeer veel positieve dingen over gehoord heb of waarvan dat de reclame er over mij triggert om te gaan. Meestal gebeurt dit bij een museum tijdens mijn reizen. 
 
-QR codes tijdens een museum vind ik super tof en handig. Zoals eerder gezegd wanneer je niet dicht genoeg kan gaan om de tekst te lezen katje van ver de QR code scannen om zo toch de info te kunnen lezen. Ook geeft het een leuk interactief gevoel bij de bezoekers. Het belangrijkste in een museum app vind ik is dat alles duidelijk is en zichzelf uitwijst. 
+QR-codes tijdens een museumbezoek vind ik super tof en handig. Zoals eerder gezegd wanneer je niet dicht genoeg kan gaan om de tekst te lezen kan je van ver de QR-code scannen om zo toch de info te kunnen lezen. Ook geeft het een leuk interactief gevoel bij je bezoek. Het belangrijkste in een museum app vind ik is dat alles duidelijk is en zichzelf uitwijst. 
 
 ## CONCLUSIE
 
