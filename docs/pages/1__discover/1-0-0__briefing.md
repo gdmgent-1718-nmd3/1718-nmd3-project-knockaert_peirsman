@@ -48,10 +48,4 @@ Het museum opende in het jaar 1986. Het is ondergebracht in het ouderlijk zieken
 genoemd naar de psychiater Jozef Guislain.
 Naast een zeer ruime vaste collectie worden er in het museum elk jaar een drie tot viertal exposities georganiseerd. 
 
-  <div class="row justify-content">
-    <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="docs/Images/drGuislain.jpg" alt="Dr. Guislain museum">
-    </div>
-  </div>
-
- ![Guislain musem](Images/drGuislain.jpg "Dr. Guislain museum")
+ ![Guislain musem]({{ 'Images/drGuislain.jpg' | relative_url }})
