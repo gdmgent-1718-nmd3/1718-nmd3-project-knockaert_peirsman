@@ -10,4 +10,4 @@ title: Formulieren
 
 >WEBSITE
 
->>![contact formulier]({{ 'Images/styleguide5.png' | relative_url }}){: width="600px"}
+>![contact formulier]({{ 'Images/styleguide5.png' | relative_url }}){: width="400px"}
