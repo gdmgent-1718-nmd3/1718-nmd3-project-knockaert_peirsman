@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Analyse
 ---
-Vragenlijst museumbezoek
+## Vragenlijst museumbezoek
 
 1. Vindt u de uitlegapparaten die je krijgt tijdens het museumbezoek praktisch?
 
@@ -24,7 +24,7 @@ Vragenlijst museumbezoek
 
 8. Wat is voor u belangrijk in een museumapp?
 
-Persoon 1
+## Persoon 1
 
 Eigenlijk heb ik weinig interesse in musea. Pas als iets mij echt interesseert zal ik misschien eens gaan kijken. Ik hou niet zo van de typische klassieke kunst of abstracte concepten, ik vind het vooral belangrijk dat kunst mij verbaasd en boeit.
 
@@ -32,7 +32,7 @@ Vaak zijn musea ook niet zo goedkoop, en als je dan weinig voorkennis hebt en te
 
 Daarnaast vind ik de sfeer in een museum ook niet altijd aangenaam. Je moet er meestal stil zijn en een serieuze houding aannemen.
 
-Persoon 2
+## Persoon 2
 
 Een koptelefoon met uitleg vind ik wel handig tijdens een museumbezoek. Mijn smartphone neem ik ook overal mee naartoe, dat is handig voor extra info.
 
@@ -42,7 +42,7 @@ Wat mij vooral aanzet om te gaan bezoeken is als ik er iets over gelezen heb op 
 
 De QR-codes bij de kunstwerken kan een handige manier zijn manier zijn voor extra info maar ook op de tekst die bij het kunstwerk op mijn smartphone te kunnen vergroten. Want de teksten op de uitlegkaartjes zijn wat klein en zonder bril kan ik die moeilijk lezen.
 
-Persoon 3
+## Persoon 3
 
 Meestal zijn die apparaten oud en voorbij gestreefd, en ook beperkt in hun kunnen. Mijn smartphone heb ik en inderdaad, die neem ik altijd overal mee. De uitlegkaartjes bij de kunstwerken niet altijd eenvoudig, ook soms door de beperkte vertalingen naar het Nederlands.
 
@@ -50,7 +50,7 @@ Ik ben geen grote museum bezoeker, en als ik die bezoek is het uit interesse van
 
 De QR codes zijn een beetje voorbij gepasseerd, en niet altijd gemakkelijk toegankelijk, soms kan men niet dicht genoeg bij het kunstwerk om het te scannen. Wat ik mis en een museum app is het gebruiksgemak, maar ook de mogelijkheid om eigen te bedienen. En vooral dat het niet saai verteld wordt.
 
-CONCLUSIE
+## CONCLUSIE
 
 * Informatie snel en makkelijk ter beschikking stellen
 
