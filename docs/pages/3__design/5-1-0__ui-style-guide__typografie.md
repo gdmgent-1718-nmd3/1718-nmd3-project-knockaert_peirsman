@@ -7,7 +7,7 @@ published: true
 title: Typografie
 ---
 
-# SMARTWATCH
+>SMARTWATCH
 >
 ## Titel niveau 1
 
@@ -22,7 +22,7 @@ no magna delicata dissentiunt qui. Te clita populo torquatos eam, ex nisl mnesar
 id vim vide definitionem, salutatus repudiandae pro cu. Ea ignota contentiones duo, vel ut laoreet disputando. Placerat recusabo usu id,
 ei adhuc ocurreret interesset sed. 9 pt Raleway 
 
-# SMARTPHONE
+>SMARTPHONE
 >
 ## Titel niveau 1
 
@@ -37,7 +37,7 @@ no magna delicata dissentiunt qui. Te clita populo torquatos eam, ex nisl mnesar
 id vim vide definitionem, salutatus repudiandae pro cu. Ea ignota contentiones duo, vel ut laoreet disputando. Placerat recusabo usu id,
 ei adhuc ocurreret interesset sed. 12 pt Raleway 
 
-# WEBSITE
+>WEBSITE
 >
 ## Titel niveau 1
 

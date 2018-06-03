@@ -8,6 +8,6 @@ published: true
 title: Formulieren
 ---
 
-WEBSITE
+>WEBSITE
 
->>![contact formulier]({{ 'Images/styleguide5.png' | relative_url }}){: width="300px"}
+>>![contact formulier]({{ 'Images/styleguide5.png' | relative_url }}){: width="600px"}

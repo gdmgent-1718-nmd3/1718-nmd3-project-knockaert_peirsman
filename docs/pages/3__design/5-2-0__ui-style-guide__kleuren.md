@@ -7,6 +7,6 @@ published: true
 title: Kleuren
 ---
 
-SMARTWATCH & SMARTPHONE
+>SMARTWATCH & SMARTPHONE
 
 >>![style guide kleuren]({{ 'Images/styleguide1.png' | relative_url }}){: width="300px"}
