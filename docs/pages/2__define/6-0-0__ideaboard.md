@@ -7,8 +7,8 @@ published: true
 title: Ideaboard
 ---
 
-![Ideaboard 1]({{ 'Images/ideabord1.jpg' | relative_url }}){: width="900px"}
+![Ideaboard 1]({{ 'Images/ideaboard1.jpg' | relative_url }}){: width="900px"}
 
-![Ideaboard 2]({{ 'Images/ideabord2.jpg' | relative_url }}){: width="900px"}
+![Ideaboard 2]({{ 'Images/ideaboard2.jpg' | relative_url }}){: width="900px"}
 
 
