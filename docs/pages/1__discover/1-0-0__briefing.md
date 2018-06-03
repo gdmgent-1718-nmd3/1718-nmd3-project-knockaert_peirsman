@@ -48,4 +48,4 @@ Zowel de vaste collectie, de tijdelijke collectie als de kunstcollectie benadere
 
 Het museum is gevestigd in het oude Guislaingesticht wat zorgt voor een authentieke sfeer die heerst doorheen het hele museum.
 
- ![Guislain musem]({{ 'Images/drGuislain.jpg' | relative_url }})
+ ![Guislain musem]({{ 'Images/drGuislain.jpg' =250px | relative_url }}) {: .fotos }
