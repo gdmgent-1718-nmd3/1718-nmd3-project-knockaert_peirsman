@@ -50,6 +50,6 @@ Gekozen Museum
 
   <div class="row justify-content">
     <div class="col-12 col-md-8 ">
-        <img class="d-block w-100" src="Images/DrGuislain.JPG" alt="Dr. Guislain museum">
+        <img class="d-block w-100" src="docs/Images/drGuislain.jpg" alt="Dr. Guislain museum">
     </div>
   </div>
